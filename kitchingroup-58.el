@@ -1,4 +1,4 @@
-;;; kitchingroup-58.el --- CaPPA preprint for doi:10.1021/acs.jpcc.5b05338
+;;; kitchingroup-58.el --- Investigating the Energetic Ordering of Stable and Metastable TiO2 Polymorphs Using DFT+U and Hybrid Functionals
 
 ;; Copyright (C) 2016 John Kitchin
 
