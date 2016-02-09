@@ -18,7 +18,7 @@
 ;;   doi =          {10.1021/acs.jpcc.5b05338},
 ;;   url =          { http://dx.doi.org/10.1021/acs.jpcc.5b05338 },
 ;;   eprint =       { http://dx.doi.org/10.1021/acs.jpcc.5b05338 },
-;; }
+;;   }
 
 ;;; Commentary:
 
